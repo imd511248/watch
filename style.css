@@ -42,6 +42,11 @@ body {
     font-weight: 900;
 }
 
+span {
+    font-size: 93px;
+    margin-bottom: 20px;
+    color: #3f00ff;
+}
 
 @media screen and (min-width:320px) and (max-width:480px) {
     .container {
@@ -51,4 +56,8 @@ body {
     .container p {
         font-size: 75px;
     }
+
+    /* span {
+        width: 10px;
+    } */
 }
